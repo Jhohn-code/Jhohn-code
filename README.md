@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, my name is John 👋
+
+## Welcome to my profile
+
+Being here means you want to check out some **information about me**
+
+Well, you are in the *right place*
+
+Check out my portfolio [here](portfolio.com)
 
 <!--
 **Jhohn-code/Jhohn-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
