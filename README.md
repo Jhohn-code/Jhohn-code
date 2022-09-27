@@ -8,6 +8,18 @@ Well, you are in the *right place*
 
 Check out my portfolio [here](portfolio.com)
 
+- List
+- List
+- List
+
+1. List
+1. List
+1. List
+
+- [ ] Markdown
+- [ ] Markdown
+- [x] Markdown
+
 <!--
 **Jhohn-code/Jhohn-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
